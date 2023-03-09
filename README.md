@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi 👋 I'm Daria 👩‍💻
 
-<!--
-**daria-galichiy/daria-galichiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`An android developer`**
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f8/51/6b/f8516b9c0ee5497018254b2750042240.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩🏻‍🎓 BMSTU master's degree
+- 🔭 I’m currently working on **[Marvel App]**(https://github.com/daria-galichiy/marvelApp/tree/modularization)
+- 🌱 I’m currently learning **Kotlin** and **Java**
+- 📫 Feel free to contact me **dgalichiy@gmail.com**
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Android SDK" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
