@@ -1,6 +1,5 @@
 ## Hi 👋 I'm Daria 👩‍💻
 
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/f8/51/6b/f8516b9c0ee5497018254b2750042240.gif">
 
 **`An android developer`**
 
@@ -25,10 +24,10 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg" />
-<br /> 
- 
---- 
- 
+<br />
+
+#
+
 ### 📊 Stats 
  
 ![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=daria-galichiy&show_icons=true&theme=gruvbox) 
