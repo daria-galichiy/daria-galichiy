@@ -1,3 +1,4 @@
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/f8/51/6b/f8516b9c0ee5497018254b2750042240.gif" width="250" height="150" />
 ## Hi 👋 I'm Daria 👩‍💻
 
 
@@ -8,6 +9,10 @@
 - 🔭 I’m currently working on **[Marvel App](https://github.com/daria-galichiy/marvelApp/tree/modularization)**
 - 🌱 I’m currently learning **Kotlin** and **Java**
 - 📫 Feel free to contact me **dgalichiy@gmail.com**
+
+<p align="left">
+<a href="https://t.me/daria2141" target="blank"><img align="center" src="https://xgatedental.ru/telegram-logo.jpg" alt="daria-g" height="30" width="40" /></a>
+</p>
 
 ---
 
