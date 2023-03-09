@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f8/51/6b/f8516b9c0ee5497018254b2750042240.gif">
 
 - 👩🏻‍🎓 BMSTU master's degree
-- 🔭 I’m currently working on **[Marvel App]**(https://github.com/daria-galichiy/marvelApp/tree/modularization)
+- 🔭 I’m currently working on **[Marvel App](https://github.com/daria-galichiy/marvelApp/tree/modularization)**
 - 🌱 I’m currently learning **Kotlin** and **Java**
 - 📫 Feel free to contact me **dgalichiy@gmail.com**
 
