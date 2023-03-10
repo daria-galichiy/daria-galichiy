@@ -39,5 +39,4 @@
 ### 📊 Stats 
  
 ![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=daria-galichiy&show_icons=true&theme=gruvbox) 
- 
- 
+![Daria's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=daria-galichiy&theme=gruvbox) 
