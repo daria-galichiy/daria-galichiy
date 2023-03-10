@@ -5,7 +5,7 @@
 **`An android developer`**
 
 
-- 👩🏻‍🎓 BMSTU master's degree
+- 👩‍🎓 BMSTU master's degree
 - 🔭 I’m currently working on **[Marvel App](https://github.com/daria-galichiy/marvelApp/tree/modularization)**
 - 🌱 I’m currently learning **Kotlin** and **Java**
 - 📫 Feel free to contact me: **dgalichiy@gmail.com**
@@ -38,5 +38,5 @@
 
 ### 📊 Stats 
  
-![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=daria-galichiy&show_icons=true&theme=gruvbox) 
-![Daria's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=daria-galichiy&theme=gruvbox) 
+![Daria's GitHub vercel app stats](https://github-readme-stats.vercel.app/api?username=daria-galichiy&show_icons=true&theme=gruvbox) 
+![Daria's GitHub herokuapp stats](https://github-readme-streak-stats.herokuapp.com/?user=daria-galichiy&theme=gruvbox) 
