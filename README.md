@@ -35,6 +35,10 @@
 <br />
 
 #
+### 🏆 Certificates 
+- [Alfa-Campus Certificate from Alfa-Bank on completion of the course "Android-development"](https://disk.yandex.ru/i/Vpv-4miRmZHxnw)
+
+#
 
 ### 📊 Stats 
  
