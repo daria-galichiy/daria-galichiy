@@ -11,7 +11,7 @@
 - 📫 Feel free to contact me: **dgalichiy@gmail.com**
 
 <p align="left">
-<a href="https://t.me/daria2141" target="blank"><img align="center" src="https://xgatedental.ru/telegram-logo.jpg" alt="daria" height="35" width="40" /></a>
+<a href="https://t.me/daria2141" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-image-1.png" alt="daria" height="35" width="40" /></a>
 <a href="mailto:dgalichiy@gmail.com" target="blank"><img align="center" src="https://logolook.net/wp-content/uploads/2021/06/Symbol-Gmail-1536x864.png" alt="daria" height="25" width="40" /></a>
 </p>
 
