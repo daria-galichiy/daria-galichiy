@@ -6,7 +6,7 @@
 
 
 - 👩‍🎓 BMSTU master's degree
-- 🔭 I’m currently working on **[Marvel App](https://github.com/daria-galichiy/marvelApp/tree/modularization)**
+- 🔭 I’m currently working on **[Union EAM](https://union-eam.ru/)**
 - 🌱 I’m currently learning **Kotlin** and **Java**
 - 📫 Feel free to contact me: **dgalichiy@gmail.com**
 
